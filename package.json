@@ -1,0 +1,27 @@
+{
+  "name": "node_express_server",
+  "version": "0.1.0",
+  "description": "Adoption site for pets",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosVJ27/nodejs-express-server.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express",
+    "MongoDB"
+  ],
+  "author": "Carlos Villalobos Jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosVJ27/nodejs-express-server/issues"
+  },
+  "homepage": "https://github.com/CarlosVJ27/nodejs-express-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
